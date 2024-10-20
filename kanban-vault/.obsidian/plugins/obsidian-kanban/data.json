@@ -1,0 +1,11 @@
+{
+  "show-checkboxes": false,
+  "new-card-insertion-method": "prepend",
+  "hide-card-count": true,
+  "tag-action": "kanban",
+  "date-format": "DD-MM-YYYY",
+  "date-display-format": "DD-MM-YYYY",
+  "show-relative-date": true,
+  "date-picker-week-start": 1,
+  "new-note-folder": "Заметки из карточек"
+}

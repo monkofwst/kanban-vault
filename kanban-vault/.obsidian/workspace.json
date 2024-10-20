@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "585fd37ab41e61e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4273324c99ec89b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65300455e42ef27",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "А домашка!!?? 🎓.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "А домашка!!?? 🎓"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee6d59481ab1ef7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6afdb1be750e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8702e3198d02832",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c8966a1f6f99f8e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7773ee03abe01f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8fe89fcd054ac7ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43b790e22bba3d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e1f7b28ef044e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Заметки из карточек/Найти первую работу в DS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Найти первую работу в DS"
+            }
+          },
+          {
+            "id": "0ad6ab6a03da2b6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Заметки из карточек/Найти первую работу в DS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Найти первую работу в DS"
+            }
+          },
+          {
+            "id": "53e4c03416965c0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa1483b9d94a3a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Заметки из карточек/Найти первую работу в DS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Найти первую работу в DS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f65300455e42ef27",
+  "lastOpenFiles": [
+    "remote",
+    "https:/github.com/monkofwst",
+    "https:/github.com",
+    "https:",
+    "Доска исполнения 🚀.md",
+    "А домашка!!?? 🎓.md",
+    "Заметки из карточек/Найти первую работу в DS.md",
+    "Доска целей 🏆.md",
+    "Стек технологий в ML.md",
+    "Матанчик.md",
+    "Шаблоны/Доска целей 🏆.md",
+    "Шаблоны/Доска исполнения 🚀.md",
+    "Алгоритмы/Ревью канбан доски ✅.md",
+    "Алгоритмы",
+    "Шаблоны",
+    "Заметки из карточек",
+    "Welcome.md"
+  ]
+}
