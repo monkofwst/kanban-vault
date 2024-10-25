@@ -28,12 +28,33 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
               "title": "А домашка!!?? 🎓"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a90e1571664faa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d6b84f2dedcaa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Заметки из карточек/Переделать вторую лабу Прога.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переделать вторую лабу Прога"
             }
           }
         ]
@@ -179,10 +200,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f65300455e42ef27",
+  "active": "08d6b84f2dedcaa7",
   "lastOpenFiles": [
-    "Доска исполнения 🚀.md",
     "А домашка!!?? 🎓.md",
+    "Заметки из карточек/Переделать вторую лабу Прога.md",
+    "Доска исполнения 🚀.md",
     "remote",
     "https:/github.com/monkofwst",
     "https:/github.com",
